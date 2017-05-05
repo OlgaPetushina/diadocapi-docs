@@ -38,6 +38,7 @@ HTTP-интерфейс
    http/ParseRevocationRequestXml
    http/ParseSignatureRejectionXml
    http/ParseTorg12SellerTitleXml
+   http/ParseInvoiceXml
    http/PrepareDocumentsToSign
    http/Recognize
    http/RecycleDraft
